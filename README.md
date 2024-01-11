@@ -8,7 +8,7 @@ Newsletter: [https://newsletter.vinodsharma.co](https://newsletter.vinodsharma.c
 
 Quarterly Goal-Setting: [https://quarterlygoalsetting.com](https://quarterlygoalsetting.com/)
 
-You can reach me at [@VinodSharma10x] (https://twitter.com/VinodSharma10x). My DMs are open and I respond to all messages. 
+You can reach me at [[@VinodSharma10x](https://twitter.com/VinodSharma10x)] (@VinodSharma10x). My DMs are open and I respond to all messages. 
 
 <!--
 **vinodsharma10x/vinodsharma10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
