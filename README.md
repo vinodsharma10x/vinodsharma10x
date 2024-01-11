@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a senior manager at AdventHealth and responsible for the planning, development, release, and marketing of the AdventHealth App. My current initiative is to achieve 2.5 million active users.
+
+I am building a Career Leap Masterclass to help aspiring developer fast-track their professional development with a systematic approach. 
+
+Newsletter: [https://newsletter.vinodsharma.co](https://newsletter.vinodsharma.co/)
+
+Quarterly Goal-Setting: [https://quarterlygoalsetting.com](https://quarterlygoalsetting.com/)
+
+You can reach me at [@VinodSharma10x] (https://twitter.com/VinodSharma10x). My DMs are open and I respond to all messages. 
+
 <!--
 **vinodsharma10x/vinodsharma10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
