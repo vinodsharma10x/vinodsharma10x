@@ -4,9 +4,17 @@ I am a senior manager at AdventHealth and responsible for the planning, developm
 
 I am building a Career Leap Masterclass to help aspiring developer fast-track their professional development with a systematic approach. 
 
-Newsletter: [https://newsletter.vinodsharma.co](https://newsletter.vinodsharma.co/)
+[Newsletter](https://newsletter.vinodsharma.co/)
+- Career Jumpstart Newsletter For Developers
+- You'll get actionable advice about time management, goal-setting, and tech trends
 
-Quarterly Goal-Setting: [https://quarterlygoalsetting.com](https://quarterlygoalsetting.com/)
+[Quarterly Goal-Setting](https://quarterlygoalsetting.com/)
+- Plan and achieve your goals just in 3 months
+- Make the next three months of 2024 worth it
+
+[Career-Leap-Toolkit](https://github.com/vinodsharma10x/Career-Leap-Toolkit)
+- This repository is a comprehensive guide designed to empower developers in their career journey.
+
 
 You can reach me at [@VinodSharma10x](https://twitter.com/VinodSharma10x). My DMs are open and I respond to all messages. 
 
