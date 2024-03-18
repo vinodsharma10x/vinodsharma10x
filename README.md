@@ -6,7 +6,7 @@ I am building a Career Leap Masterclass to help aspiring developer fast-track th
 
 [Build Your Online Presence in Just 5 Days](https://hello.vinodsharma.co/build-online-presence-email-course)
 - This is a FREE 5-day email course designed specifically for developers to help you get noticed, respected, and connected in the tech community.
-- [Sign up for FREE] (https://hello.vinodsharma.co/build-online-presence-email-course)
+- [Sign up for FREE](https://hello.vinodsharma.co/build-online-presence-email-course)
 
 [Newsletter](https://newsletter.vinodsharma.co/)
 - Career Jumpstart Newsletter For Developers
