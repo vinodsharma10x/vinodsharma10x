@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a SaaS Advisor with 24 years of experience in building multimillion-dollar digital products. I help founders turn visionary ideas into reality and navigate the complexities of product development, strategy, and execution. My expertise includes:
+I'm a SaaS Advisor with 24 years of experience building multimillion-dollar digital products. I help founders build, grow, and scale SaaS startups so that they can turn visionary ideas into reality and navigate the complexities of product development, strategy, and execution. My expertise includes:
 
 - **Digital Product Development:** Creating scalable and innovative digital solutions.
 - **Strategic Planning:** Aligning strategies with your vision to drive growth.
