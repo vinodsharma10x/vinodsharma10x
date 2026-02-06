@@ -1,25 +1,19 @@
 # Hi there 👋
 
-I'm a SaaS Advisor with 24 years of experience building multimillion-dollar digital products. I help founders build, grow, and scale SaaS startups so that they can turn visionary ideas into reality and navigate the complexities of product development, strategy, and execution. My expertise includes:
+12 years in management. I forgot what building felt like.
 
-- **Digital Product Development:** Creating scalable and innovative digital solutions.
-- **Strategic Planning:** Aligning strategies with your vision to drive growth.
-- **Team Leadership:** Build and lead high-performing teams to achieve your goals.
+In 2025, I started coding again. Now I ship every morning using AI tools, working alongside a non-technical cofounder, building Sucana from scratch.
 
-## SaaS Inspiration Hub - A New Tab Extension
-A Chrome New Tab extension designed for SaaS founders, featuring daily motivational quotes, journaling prompts, and the latest SaaS news and Product Hunt launches. Please check it out at [GitHub](https://github.com/vinodsharma10x/saas-inspiration-hub-extension), [Chrome Web Store](https://chromewebstore.google.com/detail/saas-inspiration-hub-a-ne/agphhkieiohhocaidlihglomljmfagak?hl=en&authuser=8)
+I've spent 24 years in product development. I've built enterprise software used by 100,000+ employees and consumer apps used by 3M+ users. I know what it takes to build at scale, secure, maintainable, production-grade.
 
-## Zero→MVP in 90 Days
-Build Your SaaS Idea into a Market-Ready MVP in 90 Days! Download the ultimate step-by-step guide to building your SaaS app from scratch—No technical expertise is required.  
-Stop guessing. Start building. Join hundreds of founders who have transformed their ideas into successful SaaS products.  
-[Learn more and download the guide](https://start.vinodsharma.co/)
+But I also know how to move fast. Ship lean. Validate early. Launch in days, not months.
 
-## Newsletter for SaaS Founders
-Stay updated with the latest insights, strategies, and trends in the SaaS industry. Subscribe to my newsletter and join a community of founders dedicated to building and scaling SaaS businesses.  
-[Subscribe to the newsletter](https://newsletter.vinodsharma.co/)
+Right now, I'm building in public. Documenting the journey. Sharing what it looks like to start again in your 50s with clarity, patience, and focus.
+
+I enjoy vibe coding, tech trends, and gardening.
 
 
-Feel free to [DM me on LinkedIn](https://www.linkedin.com/in/vinodsharma10x) or [Twitter](https://twitter.com/VinodSharma10x) if you need help with product development or building a high-performing team.
+Feel free to [DM me on LinkedIn](https://www.linkedin.com/in/vinodsharma10x) or [Twitter](https://x.com/VinodSharma10x) if you need help with product development or building a high-performing team.
 
 ---
 
