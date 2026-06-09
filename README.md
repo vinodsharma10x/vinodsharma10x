@@ -26,7 +26,7 @@ Feel free to [DM me on LinkedIn](https://www.linkedin.com/in/vinodsharma10x) or 
 - [Sign up for FREE](https://vinodsharma.co/online-presence-email-course)
 
 
-[Quarterly Goal-Setting](https://quarterlygoalsetting.com/)
+[Quarterly Goal-Setting](https://quarterlyplanningworkbook.com/)
 - Plan and achieve your goals just in 3 months
 - Make the next three months of 2024 worth it
 
