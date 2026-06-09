@@ -2,11 +2,11 @@
 
 12 years in management. I forgot what building felt like.
 
-In 2025, I started coding again. Now I ship every morning using AI tools, working alongside a non-technical cofounder, building Sucana from scratch.
+In 2024, I started coding again. Now I ship every morning using AI tools, working alongside a non-technical cofounder, building Sucana from scratch.
 
-I've spent 24 years in product development. I've built enterprise software used by 100,000+ employees and consumer apps used by 3M+ users. I know what it takes to build at scale, secure, maintainable, production-grade.
+I've spent 24 years in product development. I've built enterprise software used by 100,000+ employees and consumer apps used by 3M+ users. I know what it takes to build at scale, in a secure, maintainable and production-grade way.
 
-But I also know how to move fast. Ship lean. Validate early. Launch in days, not months.
+AI made it possible to move fast. Ship lean. Validate early. Launch in days, not months.
 
 Right now, I'm building in public. Documenting the journey. Sharing what it looks like to start again in your 50s with clarity, patience, and focus.
 
